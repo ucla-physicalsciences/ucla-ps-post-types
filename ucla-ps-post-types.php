@@ -2,7 +2,7 @@
 
 /**
  * Plugin Name:       UCLA Physical Sciences Custom Post Types
- * Plugin URI:        https://github.com/ucla-ps-it/ucla-ps-post-types
+ * Plugin URI:        https://github.com/ucla-physicalsciences/ucla-ps-post-types
  * Description:       Custom post types include People, Events, Projects, Videos, Publications & Resources.
  * Version:           1.0.0
  * Author:            Scott Gruber
